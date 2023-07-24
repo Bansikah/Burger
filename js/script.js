@@ -3,7 +3,7 @@ let navbar = document.querySelector(".navbar");
 
 const toTop = document.querySelector(".to-top");
 
-let cookieModal = document.querySelector(".cookie-consent-modal");
+let cookieModal = document.querySelector(".content");
 let cancelCookieBtn = document.querySelector(".btn.cancel");
 let acceptCookieBtn = document.querySelector(".btn.accept");
 
