@@ -4,3 +4,5 @@ https://burger-rust.vercel.app/
 <br>
 version 1.1 of site updated
 https://burger-site-lime.vercel.app/
+<br>
+https://burger-clh.pages.dev/
